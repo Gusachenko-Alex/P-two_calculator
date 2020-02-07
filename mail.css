@@ -63,3 +63,7 @@ input {
     grid-row: 5/7;
     background-color: rgb(200, 195, 195);
 }
+
+.item:hover {
+    background-color: rgb(231, 189, 173);
+}
